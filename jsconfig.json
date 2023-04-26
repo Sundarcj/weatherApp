@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"paths": {
+			"@/*": ["./src/*"],
+			"@/components": ["./src/components/*"],
+			"@/util": ["./src/Util/*"],
+			"@/hooks": ["./src/hooks/index.js"]
+		}
+	}
+}
